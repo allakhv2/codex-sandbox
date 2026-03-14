@@ -1,6 +1,7 @@
 # codex-sandbox
  Test projects for Codex Cloud
 
+1) Landing page for startup teams 
 Что сейчас умеет landing page
 Hero-блок с основным value proposition
 На первом экране есть главный заголовок и подзаголовок про быстрый запуск product pages на React+TS, плюс визуальный бейдж “Built for startup teams”. Это ядро позиционирования страницы. 
