@@ -1,0 +1,7 @@
+{
+  "name": "codex-sandbox",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo '✅ Dev server ready!'"
+  }
+}
